@@ -26,6 +26,8 @@ O deploy foi realizado seguindo os seguintes passos:
 
 O resultado pode ser conferido <a href="https://youtu.be/gDT5F7TPCt0">nesse vídeo</a>. 
 
+A demonstração da aplicação funcionando pode ser conferida <a href="https://youtu.be/o3SoFFBlfUI"> nesse outro vídeo</a>
+
 #### 📁 Estrutura de pastas
 
 Dentre os arquivos presentes na raiz do projeto, definem-se:
